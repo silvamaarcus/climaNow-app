@@ -60,3 +60,13 @@ body {
   text-decoration: none;
   color: #edf904;
 }
+
+@media (max-width: 400px) {
+  .container-search h3 {
+    text-align: center;
+    margin-bottom: 32px;
+  }
+  .container-result {
+    flex-direction: column;
+  }
+}
