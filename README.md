@@ -14,23 +14,23 @@ O aplicativo foi desenvolvido com o objetivo de fortalecer o meu conhecimento em
 
 ## Tecnologias
 
-##### 💄 HTML - CSS
+#### 💄 HTML - CSS
 
 Tanto o HTML quanto o CSS, serviram para a estruturar o estilo da interface de usuário, com tags bem identadas e padrões de GRID layout para a estilização.
 
-##### ⚡ JavaScript
+#### ⚡ JavaScript
 
 O JavaScript serve para a lógica do aplicativo e manipulação dos dados da API de previsão do tempo. Através dele, é permitido adicionar um evento de clique para o botão de pesquisar. Obter a localização e demonstrar o resultado da operação na interface.
 
-##### ✨ API | OpenWeatherMap
+#### ✨ API | OpenWeatherMap
 
 O JavaScript envia uma solicitação em segundo plano para a API e, em seguida, continua executando o restante do código sem esperar pela resposta. Quando a resposta é recebida, o JavaScript executa uma função de retorno (callback) que processa os dados e atualiza a interface do usuário com as informações mais recentes. Esta tarefa é denominada como requisição assíncrona.
 
-##### ~> Desktop 💻
+#### ~> Desktop 💻
 
 <img src="https://user-images.githubusercontent.com/75142775/232636551-a28b14a8-c6f5-42ea-8d37-e5bbbe217cf9.gif" width = "600px"/>
 
-##### ~> Responsividade 📱
+#### ~> Responsividade 📱
 
 <img src="https://user-images.githubusercontent.com/75142775/232630119-7b5dc0b2-aa35-48d3-929f-643074dea4d3.gif" width = "200px"/>
 
